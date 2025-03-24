@@ -1,6 +1,6 @@
 import React from "react";
 import { easeInOut, motion } from "framer-motion";
-import MiniHeader from "../../shared/miniHeader";
+import MiniHeader from "../../shared/MiniHeader.jsx";
 import { fadeInFL, fadeInFR, fadeUp } from "../../animations";
 import HeaderT from "../../shared/HeaderT";
 
