@@ -354,7 +354,14 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-
+      {/* Mobile Menu Toggle Button */}
+      {!isMenuOpen && (
+        <div
+          className="text-4xl text-color-1 lg:hidden absolute top-0 right-0 p-8 cursor-pointer  z-50"
+          onClick={() => setIsMenuOpen(true)}>
+          <RxHamburgerMenu />
+        </div>
+      )}
       {/* Mobile Menu */}
       <AnimatePresence>
         {isMenuOpen && (
