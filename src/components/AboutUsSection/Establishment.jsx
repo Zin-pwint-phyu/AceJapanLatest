@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "../../shared/Card";
 import Grid from "../../shared/Grid";
-import Container from "../../shared/Container";
 import { motion } from "framer-motion";
 import { fadeUp } from "../../animations";
 const EstablishCategories = [

@@ -1,9 +1,8 @@
 import React from "react";
 import SideLayout from "../../shared/SideLayout";
-import MiniHeader from "../../shared/miniHeader";
+import MiniHeader from "../../shared/MiniHeader";
 import HeaderT from "../../shared/HeaderT";
 import { motion } from "framer-motion";
-import Container from "../../shared/Container";
 import Remark from "../Remark";
 import Timeline from "../TimeLine";
 import { fadeInFR } from "../../animations";

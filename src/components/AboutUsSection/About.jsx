@@ -1,5 +1,4 @@
 import React from "react";
-import Container from "../../shared/Container";
 import HeaderT from "../../shared/HeaderT";
 import SeconaryText from "../../shared/SeconaryText";
 

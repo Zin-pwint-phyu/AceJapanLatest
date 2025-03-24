@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../../shared/Container";
-import MiniHeader from "../../shared/miniHeader";
+import MiniHeader from "../../shared/MiniHeader";
 import HeaderT from "../../shared/HeaderT";
 import Flex from "../../shared/Flex";
 import MarkText from "../../shared/MarkText";
